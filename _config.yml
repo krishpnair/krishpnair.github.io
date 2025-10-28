@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "krish_pfp.png"
   name             : "Krish Nair"
   pronouns         : # example: "she/her"  
   bio              : "Statistics student"
-  location         : "London"
+  location         : "London, United Kingdom"
   employer         : "Imperial College London"
   uri              : # URL
   email            : "krishbedford@outlook.com" 
