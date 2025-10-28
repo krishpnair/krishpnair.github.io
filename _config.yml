@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "krish_pfp1.png"
+  avatar           : "pfp.png"
   name             : "Krish Nair"
   pronouns         : # example: "she/her"  
   bio              : "Statistics student"
